@@ -1,16 +1,37 @@
-## Hi there 👋
+ 🌷 ¡Hey! Soy Mariana Riofrío
 
-<!--
-**marianariofrio288-wq/marianariofrio288-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de programación | Futura desarrolladora de software
 
-Here are some ideas to get you started:
+¡Bienvenido/a a mi espacio! 🌙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estoy aprendiendo a crear páginas web, explorar lenguajes de programación y desarrollar proyectos digitales. Me gusta descubrir nuevas ideas, experimentar con la tecnología y mejorar mis habilidades poco a poco.
+
+Mi objetivo es convertir todo lo que aprendo en proyectos creativos y seguir creciendo en el mundo del desarrollo de software. 🪻
+
+⸻
+
+🦋 Un poquito sobre mí
+
+* 🌸 Estudiante de desarrollo de software.
+* 🧩 Aprendiendo a construir páginas web.
+* 🐍 Explorando el mundo de Python.
+* 💭 Me gusta aprender cosas nuevas y resolver problemas.
+* 🌱 Mejorando mis conocimientos con cada proyecto.
+* ✨ Creando mi propio camino en la programación.
+
+⸻
+ 
+⸻
+
+🌠 Mis próximos objetivos
+
+* 📚 Aprender nuevos lenguajes de programación.
+* 🛠️ Crear proyectos propios desde cero.
+* 🌐 Mejorar mis habilidades en desarrollo web.
+* 🚀 Seguir avanzando y convertir mis ideas en realidad.
+
+⸻
+
+💌 Gracias por pasarte por aquí
+
+Pequeños pasos, grandes proyectos y muchas cosas por aprender. 🌷
